@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "id": 0,
+      "name": "Volodymyr Lialiuk",
+      "email": "volodymyr.lialiuk@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Valerii Bardakov",
+      "email": "valerii.bardakov@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Anastasiia Tsymbal",
+      "email": "anastasiia.tsymbal@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Maxim Suprunenko",
+      "email": "max.suprunenko@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Irina Shavrina",
+      "email": "irina.shavrina@gmail.com"
+    }
+  ]
+}
